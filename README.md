@@ -1,7 +1,7 @@
 # scheduler-ocs-env
 
-This is an environment service for the [Gemini Automated Scheduler](../scheduler)
-based on the historical data from the [Observatory Control System](../ocs).
+This is an environment service for the [Gemini Automated Scheduler](https://github.com/gemini-hlsw/scheduler)
+based on the historical data from the [Observatory Control System](https://github.com/gemini-hlsw/ocs).
 
 It can be started locally by executing:
 ```shell
