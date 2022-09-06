@@ -5,7 +5,7 @@ based on the historical data from the [Observatory Control System](https://githu
 
 It can be started locally by executing:
 ```shell
-python environment.py
+$ python environment.py
 ```
 and then accessing:
 
