@@ -1,2 +1,0 @@
-data/gn_wfs_filled_final_MEDIAN600s.pickle.bz2 filter=lfs diff=lfs merge=lfs -text
-data/gs_wfs_filled_final_MEDIAN600s.pickle.bz2 filter=lfs diff=lfs merge=lfs -text
